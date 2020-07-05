@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## Ideas list
 
-You can use the [editor on GitHub](https://github.com/soujanyachan/52-weeks-52-side-projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soujanyachan/52-weeks-52-side-projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1 node website backend
+2 website frontend
+3 redis
+4 flutter app
+5 azure
+6 webrtc
+7 leaflet for weather grah
+8 webgl
+9 some ciphers crypto
+10 ml
+11 paxos
+12 http server
+13 os
+14 shell
+15 webscraper
+16 pixel art css generator
+17 data clean up script bash
+18 chrome extension
+19 tweet analyser interface with existing api
+20 chatterbot
+21 threading progress bar for downloads
+22 capcha maker
+23 sql query analyser
+24 convert code to uml??
+25 language interpreter / compiler
+26 unity game simple
+27 spreadsheet
+28 regex to automata sim
+29 bitorrent client
+30 block chain build your own
+31 build your own docker
+32 build own git
+33 search engine
+34 electron js for desktop app?
+35 toy fnal programming language
+36 WordPress plugin
+37 nlp autocomplete
+38 quantum computing
+39 compression huffman encoding
+40 minimalist app launcher
+41 cv
+42 parallel
+43 info ret
+44 Ruby on rails
+45 something from Rosalind bio informatics 
+46 star walker maps idk
+47 sonic pi?
+48 upi app / payment gateway integration
+49 word cloud generator
+50 graphql
+51 report generator from a db
+52 svg generator 
