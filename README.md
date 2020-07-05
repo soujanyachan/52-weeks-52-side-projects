@@ -1,10 +1,10 @@
 ## Ideas list
 
-1. **node** website backend
-2. website frontend - **js jquery**
-3. **redis**
+1. **node, express** website backend
+2. website frontend - **js, jquery**
+3. **redis** - caching
 4. **flutter** app
-5. azure (?)
+5. hex editor - **bases, numbers**
 6. **webrtc** - calling application
 7. **leaflet** for weather graphs
 8. **webgl** ocean
@@ -27,28 +27,29 @@
 25. language interpreter / **compiler**
 26. unity game simple - **graphics**
 27. spreadsheet - **python**
-28. regex to automata sim 
-29. bitorrent client
-30. block chain build your own
-31. build your own docker
-32. build own git
-33. search engine
-34. electron js for desktop app?
-35. toy fnal programming language
-36. WordPress plugin
-37. nlp autocomplete
-38. quantum computing
-39. compression huffman encoding
-40. minimalist app launcher
-41. cv
-42. parallel
-43. info ret
-44. Ruby on rails
-45. something from Rosalind bio informatics 
-46. star walker maps idk
-47. sonic pi?
-48. upi app / payment gateway integration
+28. regex to automata visualiser - **automata theory**
+29. bitorrent client - p2p protocols and bittorrent, etc
+30. **blockchain** build your own
+31. build your own **docker**
+32. build own **git**
+33. search engine - basic **nlp**
+34. electron js for desktop app? - **electron**
+35. toy fnal programming language - **functional programming**
+36. WordPress plugin - **php**
+37. nlp autocomplete - **nlp**
+38. **quantum computing**
+39. **compression** huffman encoding
+40. minimalist app launcher - **android**
+41. markdown editor
+42. write your own cpu **computer design**
+43. document summarisation - **info ret**, https://cs.stanford.edu/people/ssandeep/reports/CS224N.pdf
+44. Ruby on rails - **web dev framework**
+45. something from Rosalind - **bio informatics**
+46. star walker maps
+47. sonic pi
+48. payment portal gateway integration (paypal, upi?)
 49. word cloud generator
 50. graphql api
-51. report generator from a db
+51. report generator from a nosql db
 52. svg generator 
+53. OpenMP - computing PI / matrix multiplication / image convolution / k means clustering
