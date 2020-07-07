@@ -53,3 +53,21 @@
 51. report generator from a nosql db
 52. svg generator 
 53. OpenMP - computing PI / matrix multiplication / image convolution / k means clustering
+
+MISC:
+
+    A mobile application harnessing the most accurate facial and / or body mapping technology to allow for a true-to-life virtual try out of products like spectacles, clothes, etc.
+    Mobile application for real-time speech-to-speech translation and camera translation of multiple languages.
+    An automated web-based application that handles business-to-business lead generation and cold emailing and is completely manageable from a mobile device itself.
+    Application to use mobile devices as image scanners with features like on the fly image correction, image editing, text recognition, etc.
+    Application to provide cloud storage integration, cross-platform file transfer via FTP or LAN, and a root browser on mobile device
+    A robust indigenous anti-virus software for mobile devices.
+    Application to optimize mobile device's performance by cleaning junk/cache files, optimizing device memory and optimizing battery usage.
+    A mobile based live streaming platform for hosting webinars, lectures, etc.
+    A mobile based messaging and video calling application
+    A mobile based microblogging application
+    A mobile based news application that uses cutting-edge technology to recommend the most relevant and interesting news individually to each use.
+    A mobile application offering satellite imagery and street maps, as well as functions such as a route planner for traveling by foot, car, or with public transportation.
+    A mobile based online gaming platform which also functions as a social hub for gamers
+    A mobile based photo-editing application with all standard image editing features
+
